@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bomberman 64 Recompiled
+Exec=BM64Recompiled
+Type=Application
+Icon=512
+StartupWMClass=BM64Recompiled
+Categories=Game;
+Comment=Static recompilation of Bomberman 64 for PC.
+MimeType=x-scheme-handler/bm64recomp
